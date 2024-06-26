@@ -1,0 +1,10 @@
+datasets==2.19.1
+evaluate==0.4.2
+peft==0.10.0
+scikit-learn==1.4.2
+torch==2.3.0
+torchinfo==1.8.0
+transformers==4.40.2
+trl==0.8.6
+bitsandbytes==0.43.1
+wandb==0.16.6
